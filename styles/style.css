@@ -1,0 +1,31 @@
+body {
+ background-color: #D3D3D3;
+ color: #7D0202;
+}
+
+header {
+ background-color: #DAA520;
+ padding: 5px 5px 5px 5px;
+}
+
+p {
+ color: #C70303;
+}
+
+section {
+ background-color: #DAA520;
+}
+
+h1 {
+ background-color: #DAA520;
+ padding: 4px 4px 4px 4px;
+}
+
+h2 {
+ background-color: #DAA520;
+ padding: 4px 4px 4px 4px;
+}
+
+footer {
+ background-color: #DAA520;
+}
