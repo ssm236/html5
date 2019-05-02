@@ -20,6 +20,19 @@ section {
  background-color: #DAA520;
 }
 
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  width: 300px;
+  max-width: 100%;
+  height: auto;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 100, 180, 0.5);
+}
+
 h1 {
  background-color: #DAA520;
  padding: 1px 1px 1px 1px;
@@ -44,7 +57,7 @@ h2 {
 
 h3 {
  background-color: #DAA520;
- padding: 5px 5px 5px 5px;
+ padding: 5px 10px 10px 5px;
  border: 1px solid black;
  text-align: center;
  font-style: oblique;
@@ -70,9 +83,13 @@ li {
   list-style-position: inside;
 }
 
-
 nav a:hover {
  color: white;
+}
+
+ol {
+  list-style: georgian;
+  text-align: center;
 }
 
 footer {
